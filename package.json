@@ -1,0 +1,13 @@
+{
+  "name": "ilove-my-city",
+  "version": "1.0.0",
+  "description": "Refactored I Love My City Application using EJS ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "~4.16.0"
+  }
+}
